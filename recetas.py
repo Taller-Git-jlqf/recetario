@@ -1,6 +1,3 @@
-
----
-
 ### recetas.py
 
 # Aquí van las recetas de todos los participantes
@@ -13,6 +10,13 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
+def receta_costillas_kanka():
+    print(" Receta: Costillas al kanka")
+    print("Ingredientes: costillas, vino,... ")
+    print("Pasos:")
+    print("1. Marinar costillas con sal.")
+    print("2. ....")
+    print("3. ....")
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
