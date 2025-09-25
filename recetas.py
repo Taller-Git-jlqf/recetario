@@ -17,6 +17,9 @@ def receta_costillas_kanka():
     print("1. Marinar costillas con sal.")
     print("2. ....")
     print("3. ....")
+
+def receta_tacos():
+    print("Ejemplo fork")
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
