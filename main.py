@@ -7,6 +7,8 @@ def mostrar_menu():
     print("1. Pasta al ajo")
     print("2. Costillas al kanka")
     print("3. Tacos")
+
+    print("10. Tiramisu")
     # Agrega aquí tu receta con un número nuevo
 
     opcion = input("Elige una receta (número): ")
@@ -15,6 +17,8 @@ def mostrar_menu():
         receta_pasta()
     elif opcion=='2':
         receta_costillas_kanka()
+    elif opcion=='10':
+        receta_tiramisu()
     elif opcion=='3':
         receta_tacos()
     else:
