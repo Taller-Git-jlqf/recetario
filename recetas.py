@@ -20,6 +20,19 @@ def receta_costillas_kanka():
 
 def receta_tacos():
     print("Ejemplo fork")
+
+def receta_payLimon():
+    print(" Receta: Pay de limon")
+    print("Ingredientes: Galletas Marias, Mantequilla, Leche evaporada, Leche condensada, Queso crema, Jugo de limon")
+    print("Pasos:")
+    print("1. Mezclar las galletas molidas con mantequilla fundida")
+    print("2. Mezcla la leche evaporada, la leche condensada, el quueso crema y la ecencia de vainilla. Sin dejar de mezclar agrege poco a poco el jugo de limon hasta obtener una mezcla homogénea")
+    print("3. Coloca la mezcla de galletas en un molde")
+    print("4. Vierte la mezcla de relleno sobre la base de galletas molidas")
+    print("5. Refigera el pay hasta que esté completamente firme")
+    print("6. Decora el pay con ralladura de limón y disfruta!!!")
+
+
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
