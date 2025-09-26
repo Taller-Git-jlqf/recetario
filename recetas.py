@@ -18,12 +18,11 @@ def receta_costillas_kanka():
     print("2. ....")
     print("3. ....")
 
-def receta_tiramisu():
-    print("agregar cacao, soletas y cafeeeee")
-
-
 def receta_tacos():
     print("Ejemplo fork")
+
+def receta_tiramisu():
+    print("agregar cacao, soletas, y cafeeeee")
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():

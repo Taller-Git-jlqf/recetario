@@ -1,5 +1,5 @@
 from recetas import receta_pasta
-from recetas import receta_costillas_kanka,receta_tacos
+from recetas import receta_costillas_kanka,receta_tacos,receta_tiramisu
 # Aquí se irán importando más recetas a medida que se agreguen
 
 def mostrar_menu():
