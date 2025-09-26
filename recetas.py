@@ -20,6 +20,12 @@ def receta_costillas_kanka():
 
 def receta_tacos():
     print("Ejemplo fork")
+
+def Agua_Limon():
+    print("Ingredientes: Agua y limones :V")
+    print("Cortar 5 limones por la mitad")
+    print("Exprimir los limones en el agua y revolver")
+
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
