@@ -1,5 +1,5 @@
 from recetas import receta_pasta
-from recetas import receta_costillas_kanka,receta_tacos
+from recetas import receta_costillas_kanka,receta_tacos, carnitas
 # Aquí se irán importando más recetas a medida que se agreguen
 
 def mostrar_menu():
@@ -17,6 +17,8 @@ def mostrar_menu():
         receta_costillas_kanka()
     elif opcion=='3':
         receta_tacos()
+   elif opcion=='4':
+	receta_carnitas()
     else:
         print("Opción no válida. Intenta de nuevo.")
 

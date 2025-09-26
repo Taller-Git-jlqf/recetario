@@ -20,6 +20,11 @@ def receta_costillas_kanka():
 
 def receta_tacos():
     print("Ejemplo fork")
+
+def carnitas():
+	printf("GermanIbarra4")
+
+
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
