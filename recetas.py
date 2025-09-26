@@ -2,7 +2,7 @@
 
 # Aquí van las recetas de todos los participantes
 
-def receta_tornilospea():
+def receta_tornillosape():
     print("Receta: Pasta Tornillos")
     print("Ingredientes: pasta de tornillos, crema, ajo y sazonador")
     print("Pasos");
