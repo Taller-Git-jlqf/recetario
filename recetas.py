@@ -2,6 +2,14 @@
 
 # Aquí van las recetas de todos los participantes
 
+def receta_tornillosape():
+    print("Receta: Pasta Tornillos")
+    print("Ingredientes: pasta de tornillos, crema, ajo y sazonador")
+    print("Pasos");
+    print("1.-Hervir la pasta al dente")
+    print("2.- Mezclar el resto de los ingredientes")
+    print("3.- Incorporar a la mezcla la pasta")
+
 def receta_pasta():
     print(" Receta: Pasta al ajo")
     print("Ingredientes: pasta, tomate, ajo, aceite de oliva")

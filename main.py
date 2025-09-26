@@ -1,4 +1,7 @@
 from recetas import receta_pasta
+
+from recetas import receta_tornillosape
+
 from recetas import receta_costillas_kanka,receta_tacos,receta_payLimon,Agua_Limon
 # Aquí se irán importando más recetas a medida que se agreguen
 
@@ -7,6 +10,7 @@ def mostrar_menu():
     print("1. Pasta al ajo")
     print("2. Costillas al kanka")
     print("3. Tacos")
+    print("5. Tornillos")
     print("7. Pay de limón")
     print("8. Agua de limon")
     # Agrega aquí tu receta con un número nuevo
@@ -19,8 +23,10 @@ def mostrar_menu():
         receta_costillas_kanka()
     elif opcion=='3':
         receta_tacos()
+    elif opcion=='5':
+        receta_tornillosape()
     elif opcion == '7'
-        receta_payLimon
+        receta_payLimon()
     elif opcion=='8':
         Agua_Limon()
     else:
