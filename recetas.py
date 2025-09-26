@@ -20,6 +20,22 @@ def receta_costillas_kanka():
 
 def receta_tacos():
     print("Ejemplo fork")
+
+def churros():
+    print("Receta de churros - fácil y rápida")
+    print("Ingredientes: 1 taza agua, 1 taza harina, 2 cda aceite, pizca sal, azúcar y canela")
+    print("Lleva agua, aceite y sal a ebullición; retira del fuego.")
+    print("Añade la harina de golpe y mezcla vigorosamente hasta formar masa.")
+    print("Deja reposar 5 min; pon la masa en manga con boquilla de estrella.")
+    print("Calienta aceite a 180°C; prueba con una gota de masa.")
+    print("Forma tiras y fríe en tandas hasta dorar (2-3 min por tanda).")
+    print("Escurre sobre papel absorbente y mezcla azúcar con canela.")
+    print("Reboza los churros en el azúcar aún calientes.")
+    print("Sirve con chocolate caliente o tu dip favorito. ¡Disfruta!")
+
+
+
+
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
