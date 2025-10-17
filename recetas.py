@@ -2,13 +2,7 @@
 
 # Aquí van las recetas de todos los participantes
 
-def receta_tornillosape():
-    print("Receta: Pasta Tornillos")
-    print("Ingredientes: pasta de tornillos, crema, ajo y sazonador")
-    print("Pasos");
-    print("1.-Hervir la pasta al dente")
-    print("2.- Mezclar el resto de los ingredientes")
-    print("3.- Incorporar a la mezcla la pasta")
+
 
 def receta_pasta():
     print(" Receta: Pasta al ajo")
@@ -18,32 +12,6 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-def receta_costillas_kanka():
-    print(" Receta: Costillas al kanka")
-    print("Ingredientes: costillas, vino,... ")
-    print("Pasos:")
-    print("1. Marinar costillas con sal.")
-    print("2. ....")
-    print("3. ....")
-
-def receta_tacos():
-    print("Ejemplo fork")
-
-
-def receta_payLimon():
-    print(" Receta: Pay de limon")
-    print("Ingredientes: Galletas Marias, Mantequilla, Leche evaporada, Leche condensada, Queso crema, Jugo de limon")
-    print("Pasos:")
-    print("1. Mezclar las galletas molidas con mantequilla fundida")
-    print("2. Mezcla la leche evaporada, la leche condensada, el quueso crema y la ecencia de vainilla. Sin dejar de mezclar agrege poco a poco el jugo de limon hasta obtener una mezcla homogénea")
-    print("3. Coloca la mezcla de galletas en un molde")
-    print("4. Vierte la mezcla de relleno sobre la base de galletas molidas")
-    print("5. Refigera el pay hasta que esté completamente firme")
-    print("6. Decora el pay con ralladura de limón y disfruta!!!")
-def Agua_Limon():
-    print("Ingredientes: Agua y limones :V")
-    print("Cortar 5 limones por la mitad")
-    print("Exprimir los limones en el agua y revolver")
 
 
 # Agrega tu receta debajo de esta línea
