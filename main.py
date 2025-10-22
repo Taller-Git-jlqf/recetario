@@ -1,5 +1,6 @@
 from recetas import receta_pasta
 from recetas import receta_chilaquiles
+from recetas import receta_sandwich
 from recetas import receta_costillas
 
 
@@ -10,6 +11,8 @@ def mostrar_menu():
     print("1. Pasta al ajo")
     print("9. receta_chilaquiles")
     print("5. Costillas de cerdo a la BBQ")
+    print("6. Sandwich de jamon")
+
     # Agrega aquí tu receta con un número nuevo
 
     opcion = input("Elige una receta (número): ")
@@ -18,6 +21,8 @@ def mostrar_menu():
         receta_pasta()
     elif opcion == "9":
         receta_chilaquiles()
+    elif opcion == "6":
+        receta_sandwich()
     elif opcion == "5":
         receta_costillas()
     else:
