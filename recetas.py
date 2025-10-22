@@ -12,6 +12,18 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
+
+def receta_sandwich():
+    print("Receta: sandwich integral de jamon")
+    print("Ingredientes: pan integral, jamon, queso, aguacate, cebolla, jitomate, mayonesa")
+    print("Pasos: ")
+    print("1. Untar mayonesa en el pan.")
+    print("2. Poner jamon sobre el pan.")
+    print("3. Agregar el queso.")
+    print("4. Agregar aguacate, cebolla y jitomate.")
+    print("5. Cocer en la plancha durante 5 min y servir caliente.")
+
+
 def receta_costillas():
     print(" Receta: Costillas de Cerdo a la BBQ")
     print("Ingredientes: Costillar de cerdo, salsa BBQ, sal, pimienta")
