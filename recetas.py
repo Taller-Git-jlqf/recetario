@@ -12,6 +12,13 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
+def receta_helado():
+    print(" Receta: Helado de vainilla")
+    print("Ingredientes: leche, crema, azucar, vainilla, hielo")
+    print("Pasos:")
+    print("1. Hacer la base del helado.")
+    print("2. Congelar durante dos horas, durante el proceso mezclar")
+    print("3. Servir al gusto")
 
 def receta_sandwich():
     print("Receta: sandwich integral de jamon")
