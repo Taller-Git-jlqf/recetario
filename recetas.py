@@ -12,7 +12,13 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-
+def receta_helado():
+   print("Receta: Helado de vainilla")
+   print("Ingredientes: leche, vainilla, azucar")
+   print("Pasos:")
+   print("1. Hacer la base del helado.")
+   print("2. Colocar en el congelador.")
+   print("3. Esperar 2 horas y servir.")
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
