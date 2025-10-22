@@ -12,7 +12,13 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-
+def receta_maruchan():
+    print(" Receta: Sopa maruchan")
+    print("Ingredientes: agua, bote de sopa maruchan")
+    print("Pasos:")
+    print("1. Hervir el agua")
+    print("2. Vaciar el agua hirviendo en el bote con la pasta")
+    print("3. Esperar 3 minutos")
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
