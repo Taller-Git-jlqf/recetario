@@ -12,7 +12,14 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-
+def receta_arrozRojo():
+    print("Receta: Arroz rojo")
+    print("Ingredientes: Arroz, jitomate, cebolla, ajo, caldo de pollo")
+    print("Pasos: ")
+    print("1. Enjuegar una taza de arroz")
+    print("2. Sofreir el arroz")
+    print("licuar el jitomate, cebolla y ajo y agregar")
+    print("Cocer por veinte minutos")
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
