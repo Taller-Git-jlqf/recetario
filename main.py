@@ -1,5 +1,6 @@
 from recetas import receta_pasta
 from recetas import receta_sandwich
+from recetas import receta_costillas
 
 
 # Aquí se irán importando más recetas a medida que se agreguen
@@ -7,6 +8,9 @@ from recetas import receta_sandwich
 def mostrar_menu():
     print("Recetario disponible:")
     print("1. Pasta al ajo")
+    print("5. Costillas de cerdo a la BBQ")
+    print("6. Sandwich de jamon")
+
     # Agrega aquí tu receta con un número nuevo
 
     opcion = input("Elige una receta (número): ")
@@ -15,6 +19,8 @@ def mostrar_menu():
         receta_pasta()
     elif opcion == "6":
         receta_sandwich()
+    elif opcion == "5":
+        receta_costillas()
     else:
         print("Opción no válida. Intenta de nuevo.")
 
