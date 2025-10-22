@@ -12,7 +12,12 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-
+def receta_chilaquiles():
+    print("Receta:chilaquiles")
+    print("Ingredientes:Totopos, salsa, queso, crema, limon")
+    print("1. Calentar la salsa")
+    print("2. Dejar los totopos remojando en la salsa")
+    print("3. Agregar crema, queso y limon y listo")
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
