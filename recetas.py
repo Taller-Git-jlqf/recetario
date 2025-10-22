@@ -18,6 +18,16 @@ def receta_chilaquiles():
     print("1. Calentar la salsa")
     print("2. Dejar los totopos remojando en la salsa")
     print("3. Agregar crema, queso y limon y listo")
+def receta_costillas():
+    print(" Receta: Costillas de Cerdo a la BBQ")
+    print("Ingredientes: Costillar de cerdo, salsa BBQ, sal, pimienta")
+    print("Pasos:")
+    print("1. Cubrir el costillar con sal y pimienta. Dejar reposar 1 hora.")
+    print("2. Calentar salsa BBQ. Precalentar el horno a 200 ºC")
+    print("3. Untar la salsa sobre el costillar")
+    print("4. Cubrir el costillar en alumnio. Hornear durante 2 horas")
+    print("5. Retirar el alumnio. Cubrir con más salsa caliente. Hornear destapado por 15 minutos")
+    print("Cortar entre huesos de costilla y servir")
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
