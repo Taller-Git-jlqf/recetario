@@ -1,11 +1,14 @@
 from recetas import receta_pasta
 from recetas import receta_maruchan
+from recetas import receta_costillas
+
 
 # Aquí se irán importando más recetas a medida que se agreguen
 
 def mostrar_menu():
     print("Recetario disponible:")
     print("1. Pasta al ajo")
+    print("5. Costillas de cerdo a la BBQ")
     print("10. Sopa maruchan")
     # Agrega aquí tu receta con un número nuevo
 
@@ -15,6 +18,8 @@ def mostrar_menu():
         receta_pasta()
     elif opcion == "10":
         receta_maruchan()
+    elif opcion == "5":
+        receta_costillas()
     else:
         print("Opción no válida. Intenta de nuevo.")
 
