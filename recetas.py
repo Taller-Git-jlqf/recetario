@@ -13,6 +13,17 @@ def receta_pasta():
     print("3. Mezclar todo y servir caliente.")
 
 
+def receta_sandwich():
+    print("Receta: sandwich integral de jamon")
+    print("Ingredientes: pan integral, jamon, queso, aguacate, cebolla, jitomate, mayonesa")
+    print("Pasos: ")
+    print("1. Untar mayonesa en el pan.")
+    print("2. Poner jamon sobre el pan.")
+    print("3. Agregar el queso.")
+    print("4. Agregar aguacate, cebolla y jitomate.")
+    print("5. Cocer en la plancha durante 5 min y servir caliente.")
+
+
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
