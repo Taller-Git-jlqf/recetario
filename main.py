@@ -10,7 +10,7 @@ def mostrar_menu():
 
     if opcion == "1":
         receta_pasta()
-    elif opcion == "2":
+    elif opcion == "12":
         receta_arroz_con_leche()  # Llamada a función, no olvides los paréntesis
     else:
         print("Opción no válida. Intenta de nuevo.")
