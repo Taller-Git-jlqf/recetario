@@ -12,7 +12,14 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-
+def receta_cereal():
+	print("Receta:Cereal con leche")
+	print("Ingredientes: plato, cereal, leche, cuchara")
+	print("Pasos:")
+	print("1. Toma un plato")
+	print("2. Sirve cereal en el plato")
+	print("3. Sirve leche en el plato")
+	print("4. Agarra una cuchara y disfruta")
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
