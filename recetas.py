@@ -35,6 +35,9 @@ def receta_costillas():
     print("5. Retirar el alumnio. Cubrir con más salsa caliente. Hornear destapado por 15 minutos")
     print("Cortar entre huesos de costilla y servir")
 
+def receta_salmon():
+    print("Es solo una prueba")
+
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
