@@ -1,9 +1,5 @@
 ### recetas.py
 
-# Aquí van las recetas de todos los participantes
-
-
-
 def receta_pasta():
     print(" Receta: Pasta al ajo")
     print("Ingredientes: pasta, tomate, ajo, aceite de oliva")
