@@ -12,6 +12,14 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
+def receta_cereal():
+    print("Receta:Cereal con leche")
+    print("Ingredientes: plato, cereal, leche, cuchara")
+    print("Pasos:")
+    print("1. Toma un plato")
+    print("2. Sirve cereal en el plato")
+    print("3. Sirve leche en el plato")
+    print("4. Agarra una cuchara y disfruta")
 
 def receta_sandwich():
     print("Receta: sandwich integral de jamon")
@@ -22,7 +30,6 @@ def receta_sandwich():
     print("3. Agregar el queso.")
     print("4. Agregar aguacate, cebolla y jitomate.")
     print("5. Cocer en la plancha durante 5 min y servir caliente.")
-
 
 def receta_costillas():
     print(" Receta: Costillas de Cerdo a la BBQ")
@@ -40,6 +47,7 @@ def receta_kanka():
 
 def receta_salmon():
     print("Es solo una prueba")
+
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
