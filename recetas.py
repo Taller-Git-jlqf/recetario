@@ -12,6 +12,16 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
+def receta_fresas():
+    print("Recera: Fresas con crema")
+    print("Ingredientes: fresas, lechera, azucar, crema")
+    print("Pasos:")
+    print("1. Cortar las fresas")
+    print("2. Colocar las fresas en un bowl")
+    print("3. Vertir azucar y crema")
+    print("4. Mezclar")
+    print("5. Agregar lechera al gusto")
+ 
 def receta_cereal():
     print("Receta:Cereal con leche")
     print("Ingredientes: plato, cereal, leche, cuchara")
@@ -20,6 +30,15 @@ def receta_cereal():
     print("2. Sirve cereal en el plato")
     print("3. Sirve leche en el plato")
     print("4. Agarra una cuchara y disfruta")
+
+def receta_arrozRojo():
+    print("Receta: Arroz rojo")
+    print("Ingredientes: Arroz, jitomate, cebolla, ajo, caldo de pollo")
+    print("Pasos: ")
+    print("1. Enjuegar una taza de arroz")
+    print("2. Sofreir el arroz")
+    print("licuar el jitomate, cebolla y ajo y agregar")
+    print("Cocer por veinte minutos")
 
 def receta_sandwich():
     print("Receta: sandwich integral de jamon")
