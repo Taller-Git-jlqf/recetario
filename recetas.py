@@ -12,7 +12,6 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-
 def receta_fresas():
     print("Recera: Fresas con crema")
     print("Ingredientes: fresas, lechera, azucar, crema")
@@ -23,6 +22,43 @@ def receta_fresas():
     print("4. Mezclar")
     print("5. Agregar lechera al gusto")
  
+def receta_cereal():
+    print("Receta:Cereal con leche")
+    print("Ingredientes: plato, cereal, leche, cuchara")
+    print("Pasos:")
+    print("1. Toma un plato")
+    print("2. Sirve cereal en el plato")
+    print("3. Sirve leche en el plato")
+    print("4. Agarra una cuchara y disfruta")
+
+def receta_sandwich():
+    print("Receta: sandwich integral de jamon")
+    print("Ingredientes: pan integral, jamon, queso, aguacate, cebolla, jitomate, mayonesa")
+    print("Pasos: ")
+    print("1. Untar mayonesa en el pan.")
+    print("2. Poner jamon sobre el pan.")
+    print("3. Agregar el queso.")
+    print("4. Agregar aguacate, cebolla y jitomate.")
+    print("5. Cocer en la plancha durante 5 min y servir caliente.")
+
+def receta_costillas():
+    print(" Receta: Costillas de Cerdo a la BBQ")
+    print("Ingredientes: Costillar de cerdo, salsa BBQ, sal, pimienta")
+    print("Pasos:")
+    print("1. Cubrir el costillar con sal y pimienta. Dejar reposar 1 hora.")
+    print("2. Calentar salsa BBQ. Precalentar el horno a 200 ºC")
+    print("3. Untar la salsa sobre el costillar")
+    print("4. Cubrir el costillar en alumnio. Hornear durante 2 horas")
+    print("5. Retirar el alumnio. Cubrir con más salsa caliente. Hornear destapado por 15 minutos")
+    print("Cortar entre huesos de costilla y servir")
+
+def receta_kanka():
+    print("Esto es una prueba")
+
+def receta_salmon():
+    print("Es solo una prueba")
+
+
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
 # def receta_tacos():
