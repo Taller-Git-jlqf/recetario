@@ -23,3 +23,12 @@ def receta_arroz_con_leche():
     print("3. Cocinar a fuego lento hasta espesar.")
     print("4. Servir caliente o frío y disfrutar.")
 
+def receta_carlota():
+    print("Receta: Carlota de limón")
+    print("Ingredientes: galletas tipo María, leche condensada, jugo de limón, crema para batir")
+    print("Pasos:")
+    print("1. Mezcla la leche condensada con el jugo de limón hasta espesar.")
+    print("2. Bate la crema hasta punto de turrón e incorpora con cuidado la mezcla anterior.")
+    print("3. En un molde, coloca capas alternadas de galletas y crema de limón.")
+    print("4. Refrigera mínimo 4 horas o hasta que cuaje.")
+    print("5. Servir fría y disfrutar.")
