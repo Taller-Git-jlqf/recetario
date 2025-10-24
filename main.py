@@ -1,6 +1,7 @@
 
 from recetas import receta_arrozRojo
 from recetas import receta_pasta
+from recetas import receta_fresas
 from recetas import receta_cereal
 from recetas import receta_costillas
 from recetas import receta_sandwich
@@ -8,19 +9,18 @@ from recetas import receta_costillas
 from recetas import receta_kanka
 from recetas import receta_salmon
 
-
 # Aquí se irán importando más recetas a medida que se agreguen
 
 def mostrar_menu():
     print("Recetario disponible:")
     print("1. Pasta al ajo")
     print("11. Arroz rojo")
+    print("4. Fresas con Crema")
     print("3. Cereal con leche")
     print("5. Costillas de cerdo a la BBQ")
     print("6. Sandwich de jamon")
     print("30. kanka")
     print("20. Salmon")
-
     # Agrega aquí tu receta con un número nuevo
 
     opcion = input("Elige una receta (número): ")
@@ -29,6 +29,8 @@ def mostrar_menu():
         receta_pasta()
     elif opcion == "11":
         receta_arrozRojo()
+    elif opcion == "4":
+        receta_fresas()
     elif opcion == "3":
         receta_cereal()
     elif opcion == "6":

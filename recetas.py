@@ -12,6 +12,16 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
+def receta_fresas():
+    print("Recera: Fresas con crema")
+    print("Ingredientes: fresas, lechera, azucar, crema")
+    print("Pasos:")
+    print("1. Cortar las fresas")
+    print("2. Colocar las fresas en un bowl")
+    print("3. Vertir azucar y crema")
+    print("4. Mezclar")
+    print("5. Agregar lechera al gusto")
+ 
 def receta_cereal():
     print("Receta:Cereal con leche")
     print("Ingredientes: plato, cereal, leche, cuchara")
