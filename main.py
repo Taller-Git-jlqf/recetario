@@ -1,3 +1,5 @@
+
+from recetas import receta_arrozRojo
 from recetas import receta_pasta
 from recetas import receta_fresas
 from recetas import receta_cereal
@@ -12,6 +14,7 @@ from recetas import receta_salmon
 def mostrar_menu():
     print("Recetario disponible:")
     print("1. Pasta al ajo")
+    print("11. Arroz rojo")
     print("4. Fresas con Crema")
     print("3. Cereal con leche")
     print("5. Costillas de cerdo a la BBQ")
@@ -24,6 +27,8 @@ def mostrar_menu():
 
     if opcion == "1":
         receta_pasta()
+    elif opcion == "11":
+        receta_arrozRojo()
     elif opcion == "4":
         receta_fresas()
     elif opcion == "3":

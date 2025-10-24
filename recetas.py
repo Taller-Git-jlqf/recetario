@@ -31,6 +31,15 @@ def receta_cereal():
     print("3. Sirve leche en el plato")
     print("4. Agarra una cuchara y disfruta")
 
+def receta_arrozRojo():
+    print("Receta: Arroz rojo")
+    print("Ingredientes: Arroz, jitomate, cebolla, ajo, caldo de pollo")
+    print("Pasos: ")
+    print("1. Enjuegar una taza de arroz")
+    print("2. Sofreir el arroz")
+    print("licuar el jitomate, cebolla y ajo y agregar")
+    print("Cocer por veinte minutos")
+
 def receta_sandwich():
     print("Receta: sandwich integral de jamon")
     print("Ingredientes: pan integral, jamon, queso, aguacate, cebolla, jitomate, mayonesa")
