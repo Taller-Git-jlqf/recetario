@@ -1,9 +1,5 @@
 ### recetas.py
 
-# Aquí van las recetas de todos los participantes
-
-
-
 def receta_pasta():
     print(" Receta: Pasta al ajo")
     print("Ingredientes: pasta, tomate, ajo, aceite de oliva")
@@ -67,6 +63,21 @@ def receta_kanka():
 def receta_salmon():
     print("Es solo una prueba")
 
+def receta_carlota():
+    print("Receta: Carlota de limón")
+    print("Ingredientes:")
+    print("- Galletas tipo María")
+    print("- 1 lata de leche condensada")
+    print("- 1 taza de jugo de limón")
+    print("- 1 taza de crema para batir o media crema")
+    print("- Rodajas de limón y ralladura (opcional, para decorar)")
+    print("\nPasos:")
+    print("1. Mezcla la leche condensada con el jugo de limón hasta espesar ligeramente.")
+    print("2. Bate la crema hasta punto de turrón e incorpora con cuidado a la mezcla de limón.")
+    print("3. En un refractario, coloca una capa de galletas María y encima una capa de la mezcla.")
+    print("4. Repite el proceso hasta terminar con una capa de crema.")
+    print("5. Refrigera mínimo 4 horas o hasta que cuaje.")
+    print("6. Sirve fría y disfruta.")
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
