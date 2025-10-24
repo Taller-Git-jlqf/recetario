@@ -1,7 +1,7 @@
 from recetas import receta_pasta
+from recetas import receta_chilaquiles
 from recetas import receta_cereal
 from recetas import receta_costillas
-
 from recetas import receta_sandwich
 from recetas import receta_costillas
 from recetas import receta_kanka
@@ -13,6 +13,7 @@ from recetas import receta_salmon
 def mostrar_menu():
     print("Recetario disponible:")
     print("1. Pasta al ajo")
+    print("9. receta_chilaquiles")
     print("3. Cereal con leche")
     print("5. Costillas de cerdo a la BBQ")
     print("6. Sandwich de jamon")
@@ -25,6 +26,8 @@ def mostrar_menu():
 
     if opcion == "1":
         receta_pasta()
+    elif opcion == "9":
+        receta_chilaquiles()
     elif opcion == "3":
         receta_cereal()
     elif opcion == "6":
